@@ -1,0 +1,20 @@
+export const SET_TYPE = "SET_TYPE";
+export const SET_QUANTITY = "SET_QUANTITY";
+export const ADD_QUANTITY = "ADD_QUANTITY";
+export const SUBTRACT_QUANTITY = "SUBTRACT_QUANTITY";
+export const FILTER_PRODUCTS = "FILTER_PRODUCTS";
+export const FILTER_CENTERS = "FILTER_CENTERS";
+export const CLEAR_FILTER = "CLEAR_FILTER";
+export const SET_CURRENT = "SET_CURRENT";
+export const CLEAR_CURRENT = "CLEAR_CURRENT";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
+export const SET_ALERT = "SET_ALERT";
+export const REMOVE_ALERT = "REMOVE_ALERT";
+export const RECEIVE_QUOTE = "RECEIVE_QUOTE";
+export const CLEAR_QUOTE = "CLEAR_QUOTE";
+export const GET_PRODUCTS = "GET_PRODUCTS";
+export const CLEAR_PRODUCTS = "CLEAR_PRODUCTS"
+export const GET_CENTERS = "GET_CENTERS";
+
+export const QUOTE_ERROR = "QUOTE_ERROR";
+export const PRODUCT_ERROR = "PRODUCT_ERROR";
